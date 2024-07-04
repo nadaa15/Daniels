@@ -1,0 +1,21 @@
+@media screen and (max-width:990px) {
+    form .input {
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width:500px) {
+    .header-content h3 {
+            font-size: 35px;
+        }
+    
+        .header-content p {
+            font-size: 35px;
+        }
+}
+@media screen and (max-width:640px) {
+    .about-img{
+        width: 80%;
+        margin: auto;
+    }
+}
